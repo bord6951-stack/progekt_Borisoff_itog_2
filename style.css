@@ -256,7 +256,7 @@ body {
 .card-image img {
     width: 70%;
     height: 70%;
-    object-fit: cover;
+    object-fit: contain;
     transition: transform 0.5s ease;
 }
 
@@ -746,4 +746,5 @@ body {
     }
 
 }
+
 
