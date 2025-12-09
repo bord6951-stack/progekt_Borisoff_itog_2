@@ -248,7 +248,7 @@ body {
 }
 
 .card-image {
-    width: 90%;
+    width: 70%;
     height: 400px;
     overflow: hidden;
 }
@@ -744,4 +744,5 @@ body {
     .footer p {
         font-size: 0.9rem;
     }
+
 }
